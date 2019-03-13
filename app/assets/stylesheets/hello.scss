@@ -104,3 +104,10 @@ margin: auto;
 .sns3{
   margin-left: 20%;
 }
+.box_container2{
+  width: 100%;
+  display: flex;
+  flex-direction: row; /* 子要素をflexboxにより横方向に揃える */
+  justify-content: center; /* 子要素をflexboxにより中央に配置する */
+  align-items: center;  /* 子要素をflexboxにより中央に配置する */
+}
