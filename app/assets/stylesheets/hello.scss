@@ -99,7 +99,7 @@ margin: auto;
   display: -webkit-box;
   margin: auto;
   text-align: right;
-      margin-top: 25%;
+  margin-top: 25%;
 }
 .sns3{
   margin-left: 20%;
@@ -110,4 +110,13 @@ margin: auto;
   flex-direction: row; /* 子要素をflexboxにより横方向に揃える */
   justify-content: center; /* 子要素をflexboxにより中央に配置する */
   align-items: center;  /* 子要素をflexboxにより中央に配置する */
+}
+.plane{
+  display: -webkit-box;
+  margin: auto;
+  text-align: right;
+  margin-top: 10%;
+}
+.box2 p{
+  font-size: 20px;
 }
